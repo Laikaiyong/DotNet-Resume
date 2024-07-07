@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = resume-dotnet
+build_property.RootNamespace = resume-dotnet
+build_property.ProjectDir = /Users/vandycklai/Developer/resume-dotnet/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/vandycklai/Developer/resume-dotnet
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/vandycklai/Developer/resume-dotnet/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vandycklai/Developer/resume-dotnet/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vandycklai/Developer/resume-dotnet/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-civd28ua18
+
+[/Users/vandycklai/Developer/resume-dotnet/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p10kws1ulw
+
+[/Users/vandycklai/Developer/resume-dotnet/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wtdrqwt8pj
+
+[/Users/vandycklai/Developer/resume-dotnet/Pages/Career.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyZWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-o95dxwbfwh
+
+[/Users/vandycklai/Developer/resume-dotnet/Pages/Components/Education.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9FZHVjYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qx66jqs4jg
+
+[/Users/vandycklai/Developer/resume-dotnet/Pages/Components/Experience.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9FeHBlcmllbmNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-r8wju30z7n
+
+[/Users/vandycklai/Developer/resume-dotnet/Pages/Components/Skill.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9Ta2lsbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-thvsy7bfbq

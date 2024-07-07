@@ -1,0 +1,36 @@
+{
+  "about": "Software Developer | Community Builder",
+  "experiences": [
+    {
+      "companyname": "Farmz Asia",
+      "title": "Software developer",
+      "tenure": "2023 - Present",
+      "description": "A-Z Developer from requirements to solution"
+    },
+    {
+      "companyname": "Infront Consulting",
+      "title": "Software Engineering Ninja",
+      "tenure": "2022 - 2023",
+      "description": "Consulting and manage digitalization for agriculture, logistic, healthcare industries"
+    }
+  ],
+  "educations": [
+    {
+      "name": "Bachelor of Science in Software Engineering",
+      "degreeyear": "2022",
+      "description": "Education on software theories and basic practical skills"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "estimatedlevel": 5,
+      "estimateddescription": "Excellent"
+    },
+    {
+      "name": "CSS",
+      "estimatedlevel": 5,
+      "estimateddescription": "Excellent"
+    }
+  ]
+}
