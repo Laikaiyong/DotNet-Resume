@@ -1,0 +1,37 @@
+{
+    "about": "Meme creator",
+    "experiences": [
+        {
+            "companyname": "Asia Pacific University",
+            "title": "Atlassian Administrator",
+            "tenure": "March 2021 - March 2023",
+            "description": "Working in configurations of Jira and Confluence Technical Documentations"
+        },
+        {
+            "companyname": "Figma",
+            "title": "Cleaner",
+            "tenure": "March 2020 - March 2021",
+            "description": "Healthy check"
+        }
+    ],
+    "educations": [
+        {
+            "faculty": "Asia Pacific University",
+            "course": "Degree in Software Engineering" 
+        },
+        {
+            "faculty": "Asia Pacific University",
+            "course": "Diploma in Data Informatics" 
+        }
+    ],
+    "skills": [
+        {
+            "name": ".NET",
+            "score": "5 - Excellent"
+        },
+        {
+            "name": "Blazor",
+            "score": "4 - Good"
+        }
+    ]
+}

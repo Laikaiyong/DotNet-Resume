@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/obj/Debug/net8.0/compressed/xxq8lsbe0r.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/obj/Debug/net8.0/scopedcss/bundle/dotnet-resume.styles.css",
+      "PackagePath": "staticwebassets/dotnet-resume.styles.css"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/data/resume.json",
+      "PackagePath": "staticwebassets/data/resume.json"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/vandycklai/Developer/dotnet-resume/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.dotnet-resume.props",
+      "PackagePath": "build\\dotnet-resume.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-resume.props",
+      "PackagePath": "buildMultiTargeting\\dotnet-resume.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.dotnet-resume.props",
+      "PackagePath": "buildTransitive\\dotnet-resume.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.dotnet-resume.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
